@@ -24,7 +24,7 @@ Respecto al menú desplegable debería aparecer de la siguiente manera.
 
 ---
 
-###Caraterísticas.
+### Caraterísticas.
 * Debe utilizarse Bower para la instalación de las dependencias.
 * El proyecto debe estar subido en un contenedor de vagrant y debe cumplir las siguientes características:
  * Debe existir un vagrantfile con las condiciones del contenedor.
