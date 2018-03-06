@@ -21,3 +21,14 @@ Respecto al menú desplegable debería aparecer de la siguiente manera.
   * En el apartado quienes somos desaparecerá la imagen de fondo y apareerá sólo un color con la descripción.
   * El apartado de localización no es visible en mobile.
   * El footer debera ser igual al de la imagen.
+
+---
+
+###Caraterísticas.
+* Debe utilizarse Bower para la instalación de las dependencias.
+* El proyecto debe estar subido en un contenedor de vagrant y debe cumplir las siguientes características:
+ * Debe existir un vagrantfile con las condiciones del contenedor.
+ * El contenedor debe disponer de apache instalado y configurado con la aplicación.
+ * El contenedor debe disponer de git instalado y apuntando al repositorio remoto:
+   * Debe ser actualizables con un simple git pull.
+ * La página web debe ser visible desde el equipo anfitrion una vez levantado el contenedor.
